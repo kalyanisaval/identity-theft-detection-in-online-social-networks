@@ -1,0 +1,5 @@
+name,login_attempts,status
+User1,2,Normal
+User2,8,Suspicious
+User3,1,Normal
+User4,10,Suspicious
